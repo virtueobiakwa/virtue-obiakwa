@@ -46,7 +46,7 @@ An exploratory data analysis project investigating patterns and potential risk f
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Plotly.
 
 - [View Python Notebook](Heart_Disease_Project.ipynb)
-- [View Project Documentation](HEART_DISEASE_PROJECT.md1)
+- [View Project Documentation](HEART_DISEASE_PROJECT.md)
 
 ## 🌱 Professional Development
 
